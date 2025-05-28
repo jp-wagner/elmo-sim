@@ -4,8 +4,8 @@
 
 ```bash
 # clone + install
-git clone *this repo*
-cd *this repo*
+git clone https://github.com/jp-wagner/elmo-sim.git
+cd elmo-sim
 python3 -m pip install -r requirements.txt
 
 # run comparison + save a topology diagram
